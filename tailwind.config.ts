@@ -11,6 +11,14 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        primary: "#d00000",
+        secondary: "#7b1a1a",
+      },
+      spacing: {
+        "50-percent": "50%",
+      },
+      outline: {
+        none: "2px solid transparent",
       },
     },
   },

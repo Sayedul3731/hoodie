@@ -1,0 +1,11 @@
+@keyframes drawer {
+  0% {
+    width: 0px;
+  }
+  50% {
+    width: 50%;
+  }
+  100% {
+    width: 100%;
+  }
+}
